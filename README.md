@@ -1,3 +1,7 @@
-# dpa-id-localizations
+# dpa-id-static files
 
-This repository provides a JSON file containing sector names and their English translations. It is intended for use by partner applications to deliver sector information and its localizations.
+This repository provides static files. It is intended for use by partner applications.
+
+## i18n
+
+This folder contains JSON files with German namings of sector fields and their English translations.
